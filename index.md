@@ -1,34 +1,77 @@
 ---
 layout: page
-title: CMIP6 Data Hackathon
+title: Template Hackathon
 menu_title: Home
 menu_icon: house-door
 ---
 
 {:.secondary}
-# 2–4 June 2021, in association with Bristol, Met Office, Exeter, Leeds & UCL
+# {{ site.event_date }}, in association with the University of Bristol
 
-![]({% link assets/event/cmip6-data-hackathon-2021-photo.webp %})
+<div class="aside">
+    <h2><i class="bi bi-calendar3"></i> Event timeline</h2>
+    <dl>
+        {% if site.registration_status == "soon" or site.registration_status == "open" or site.registration_status == "demo" %}
+            <dt>{{ site.registration_opens_date }}</dt>
+            <dd>
+                Applications open for participants<br>
+                {% if site.registration_status == 'open' %}
+                    <a href="{{ site.baseurl }}{% link registration.md %}" class="btn">Register now</a>
+                {% elsif site.registration_status == 'closed' %}
+                    <a class="btn disabled">Registration has closed</a>
+                {% elsif site.registration_status == 'soon' %}
+                    <a class="btn disabled">Registration opens soon</a>
+                {% endif %}
+            </dd>
+        {% endif %}
 
-Scientists from the Universities of Bristol, Exeter and Leeds, and the Met
-Office hosted a three-day hackathon on **2–4 June 2021**, open to all UK
-researchers in the field, to produce cutting-edge research using [Climate Model
-Intercomparison Project 6 (CMIP6)
-data](https://esgf-index1.ceda.ac.uk/projects/cmip6-ceda/). We aim to showcase
-outputs from the hackathon at the upcoming [COP26](https://ukcop26.org/)
-delegation in November 2021, and through peer-reviewed publications.
+        <dt>{{ site.registration_closes_date }}</dt>
+        <dd>Applications close</dd>
 
-Researchers could sign up to [topics ranging from]({% link projects.md %})
-climate change to oceanography, biogeochemistry, and more. Teams were led by
-senior academics from a range of disciplines at
-[the partner universities]({% link about.md %}#the-met-office-academic-partnership),
-but participating researchers could include early career researchers[<sup>(?)</sup>][faq]{:title="What do we mean by an Early Career Researcher (ECR)?"}
-(including PhDs and Postdocs) from any UK academic institution.
+        <dt>{{ site.event_date }}</dt>
+        <dd>Hackathon date</dd>
+    </dl>
+</div>
+
+{% if site.event_status != "over" %}
+
+Scientists from the University of Bristol are hosting a X-day hackathon on
+{{ site.event_date }}, open to researchers, to...
+
+Researchers can sign up to [topics ranging from]({{ site.baseurl }}{% link projects.md %})
+... to ..., and more. Teams will be led by senior academics from a range of
+disciplines at the University of Bristol, but participating researchers can be
+from any UK academic institution. [This opportunity]({{ site.baseurl }}{% link registration.md %})
+is open to early career researchers[<sup>(?)</sup>][faq]{:title="What do we mean by an Early Career Researcher (ECR)?"}.
+
+Participation is open to **researchers from any UK academic institution**, and
+we encourage contributions from **early career researchers**[<sup>(?)</sup>][faq]{:title="What do we mean by an Early Career Researcher (ECR)?"},
+including PhDs and Postdocs.
+
+## Logistics
+
+The event will take place virtually, using a combination of **video
+conferencing** (Zoom) for meetings and seminars, and **discussion forums**
+(Slack) for ongoing comms. Data holding and analysis will take place on...
+
+## Outputs
+
+By the end of the event, we hope to...
+
+[faq]: {{ site.baseurl }}{% link faq.md %}
+
+{% else %}
+
+Scientists from the University of Bristol hosted a X-day hackathon on
+{{ site.event_date }}, open to researchers, to...
+
+Researchers could sign up to [topics ranging from]({{ site.baseurl }}{% link projects.md %})
+... to ..., and more. Teams were be led by senior academics from a range of
+disciplines at the University of Bristol, but participating researchers could be
+from any UK academic institution.
 
 The event took place virtually, using a combination of **video conferencing**
 (Zoom) for meetings and seminars, and **discussion forums** (Slack) for ongoing
-comms. Data holding and analysis took place on [JASMIN](https://www.jasmin.ac.uk/),
-the UK's data analysis facility for environmental science, which also provides a
-copy of the CMIP6 data. Outputs were saved to [GitHub](https://github.com/cmip6moap).
+comms. Data holding and analysis took place on...
 
-[faq]: {% link faq.md %}
+{% endif %}

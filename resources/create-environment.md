@@ -23,5 +23,5 @@ In summary:
 * You can also create your own environment if you need specific versions of
   packages
 
-See also our [environment setup scripts]({% link resources/environment.md %}).
+See also our [environment setup scripts]({{ site.baseurl }}{% link resources/environment.md %}).
 </div>

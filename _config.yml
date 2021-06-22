@@ -1,29 +1,46 @@
-title: CMIP6 Data Hackathon
-menu_title: CMIP6 Data Hack<span class="hide-very-narrow">athon</span><br><small><span class="hide-very-narrow">with</span> Bristol, Met Office, Exeter, Leeds &amp; UCL</small>
-author: University of Bristol Jean Golding Institute & Cabot Institute, 
-  Met Office Academic Partnership
+title: Template Hackathon
+nav_title: Template Hack<span class="hide-very-narrow">athon</span><br><small><span class="hide-very-narrow">with</span> University of Bristol</small>
+
+event_date: 2–4 June 2021
+registration_opens_date: 17 March 2021
+registration_closes_date: 16 April 2021
+
+author: University of Bristol Jean Golding Institute
+mailbox_address: ...@bristol.ac.uk
+
 description:
-  The MOAP CMIP6 Hackathon is a 3-day hackathon event, organised by the
-  University of Bristol’s Jean Golding Institute and Cabot Institute. Over the
-  course of the event, teams of academic researchers from across the UK will
-  work on research questions set by the MOAP partners related to earth-system
-  science and CMIP6 data.
-url: "https://cmip6moap.github.io"
-github_username: cmip6moap 
+  The Template Hackathon is a X-day hackathon event, organised by the University
+  of Bristol’s Jean Golding Institute. Over the course of the event, teams of
+  researchers will...
+
+url: "https://jean-golding-institute.github.io/hackathon-template"
+github_repo: jean-golding-institute
+
 theme: minima
+
+# The actual visibility of the nav bar links is influenced by the event_status
+# and registration_status flags below
 header_pages:
-  #- registration.md
-  #- agenda.md
+  - registration.md
+  - agenda.md
   - projects.md
   - videos-slides.md
   - resources.md
   - about.md
 
+# Event status
+#   soon = event is yet to happen
+#    now = event is currently happening
+#   over = event has happened
+#  (demo = show all pages to demonstrate the template)
+event_status: demo
+
 # Open and close the registration form
 #   soon = Registration has not yet opened
 #   open = Registration form is open
-#   closed = Registration form is now closed
-registration_status: closed
+# closed = Registration form is now closed
+#  (demo = show all pages to demonstrate the template)
+registration_status: demo
 
 # Remove ".html" from default permalinks
 permalink: pretty
