@@ -1,0 +1,55 @@
+title: CMIP6 Data Hackathon
+menu_title: CMIP6 Data Hack<span class="hide-very-narrow">athon</span><br><small><span class="hide-very-narrow">with</span> Bristol, Met Office, Exeter, Leeds &amp; UCL</small>
+author: University of Bristol Jean Golding Institute & Cabot Institute, 
+  Met Office Academic Partnership
+description:
+  The MOAP CMIP6 Hackathon is a 3-day hackathon event, organised by the
+  University of Bristol’s Jean Golding Institute and Cabot Institute. Over the
+  course of the event, teams of academic researchers from across the UK will
+  work on research questions set by the MOAP partners related to earth-system
+  science and CMIP6 data.
+url: "https://cmip6moap.github.io"
+github_username: cmip6moap 
+theme: minima
+header_pages:
+  #- registration.md
+  #- agenda.md
+  - projects.md
+  - videos-slides.md
+  - resources.md
+  - about.md
+
+# Open and close the registration form
+#   soon = Registration has not yet opened
+#   open = Registration form is open
+#   closed = Registration form is now closed
+registration_status: closed
+
+# Remove ".html" from default permalinks
+permalink: pretty
+
+# (See default layout below)
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:name/
+
+# Social media links
+# (See default layout below)
+twitter:
+  card: summary_large_image
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/advert.png
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+
+# Simplify tables of contents
+kramdown:
+  toc_levels: "2,3"
