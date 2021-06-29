@@ -8,6 +8,17 @@ menu_icon: house-door
 {:.secondary}
 # {{ site.event_date }}, in association with the University of Bristol
 
+<!-- REMOVE THIS SECTION when you use this template -->
+<div class="lead" markdown="1">
+This is a demo of the template repository for a public-facing hackathon website,
+built by the [Jean Golding Institute](https://www.bristol.ac.uk/golding/) at the
+University of Bristol.
+
+For more information: view the [README](https://github.com/jean-golding-institute/hackathon-template/blob/main/README.md) 
+or the [GitHub repository](https://github.com/jean-golding-institute/hackathon-template).
+</div>
+<!-- END of section to remove -->
+
 <div class="aside">
     <h2><i class="bi bi-calendar3"></i> Event timeline</h2>
     <dl>

@@ -1,3 +1,4 @@
+# Ignore your locally rendered Jekyll site
 _site
 .sass-cache
 .jekyll-cache
