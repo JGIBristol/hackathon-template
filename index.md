@@ -1,23 +1,13 @@
 ---
 layout: page
-title: Template Hackathon
+title: MCMicro hackathon 2022   
 menu_title: Home
 menu_icon: house-door
 ---
 
 {:.secondary}
-# {{ site.event_date }}, in association with the University of Bristol
+# {{ site.event_date }}
 
-<!-- REMOVE THIS SECTION when you use this template -->
-<div class="lead" markdown="1">
-This is a demo of the template repository for a public-facing hackathon website,
-built by the [Jean Golding Institute](https://www.bristol.ac.uk/golding/) at the
-University of Bristol.
-
-For more information: view the [README](https://github.com/jean-golding-institute/hackathon-template/blob/main/README.md) 
-or the [GitHub repository](https://github.com/jean-golding-institute/hackathon-template).
-</div>
-<!-- END of section to remove -->
 
 <div class="aside">
     <h2><i class="bi bi-calendar3"></i> Event timeline</h2>
@@ -36,9 +26,6 @@ or the [GitHub repository](https://github.com/jean-golding-institute/hackathon-t
             </dd>
         {% endif %}
 
-        <dt>{{ site.registration_closes_date }}</dt>
-        <dd>Applications close</dd>
-
         <dt>{{ site.event_date }}</dt>
         <dd>Hackathon date</dd>
     </dl>
@@ -46,28 +33,7 @@ or the [GitHub repository](https://github.com/jean-golding-institute/hackathon-t
 
 {% if site.event_status != "over" %}
 
-Scientists from the University of Bristol are hosting a X-day hackathon on
-{{ site.event_date }}, open to researchers, to...
-
-Researchers can sign up to [topics ranging from]({{ site.baseurl }}{% link projects.md %})
-... to ..., and more. Teams will be led by senior academics from a range of
-disciplines at the University of Bristol, but participating researchers can be
-from any UK academic institution. [This opportunity]({{ site.baseurl }}{% link registration.md %})
-is open to early career researchers[<sup>(?)</sup>][faq]{:title="What do we mean by an Early Career Researcher (ECR)?"}.
-
-Participation is open to **researchers from any UK academic institution**, and
-we encourage contributions from **early career researchers**[<sup>(?)</sup>][faq]{:title="What do we mean by an Early Career Researcher (ECR)?"},
-including PhDs and Postdocs.
-
-## Logistics
-
-The event will take place virtually, using a combination of **video
-conferencing** (Zoom) for meetings and seminars, and **discussion forums**
-(Slack) for ongoing comms. Data holding and analysis will take place on...
-
-## Outputs
-
-By the end of the event, we hope to...
+We are excited to announce our first ever MCMicro hackathon in Heidelberg, brought to you by the Schapiro lab.
 
 [faq]: {{ site.baseurl }}{% link faq.md %}
 

@@ -1,46 +1,42 @@
-title: Template Hackathon
-nav_title: Template Hack<span class="hide-very-narrow">athon</span><br><small><span class="hide-very-narrow">with</span> University of Bristol</small>
+title: MCMicro Hackathon
+nav_title: MCMicro hackathon 2022<br><small>In person in Heidelberg and online.</small>
 
-event_date: 2–4 June 2021
-registration_opens_date: 17 March 2021
-registration_closes_date: 16 April 2021
+event_date: 20–21 October 2022
 
-author: University of Bristol Jean Golding Institute
-mailbox_address: ...@bristol.ac.uk
+author: Florian Wuennemann
+mailbox_address: flowuenne@gmail.com
 
 description:
-  The Template Hackathon is a X-day hackathon event, organised by the University
-  of Bristol’s Jean Golding Institute. Over the course of the event, teams of
-  researchers will...
 
-url: "https://jean-golding-institute.github.io/hackathon-template"
-github_repo: jean-golding-institute
+
+url: "https://schapirolabor.github.io/mcmicro_hackathon_2022/"
+github_repo: schapirolabor.github.io
 
 theme: minima
 
 # The actual visibility of the nav bar links is influenced by the event_status
 # and registration_status flags below
 header_pages:
-  - registration.md
   - agenda.md
-  - projects.md
-  - videos-slides.md
-  - resources.md
   - about.md
+  - projects.md
+  #- videos-slides.md
+  - resources.md
+
 
 # Event status
 #   soon = event is yet to happen
 #    now = event is currently happening
 #   over = event has happened
 #  (demo = show all pages to demonstrate the template)
-event_status: demo
+event_status: soon
 
 # Open and close the registration form
 #   soon = Registration has not yet opened
 #   open = Registration form is open
 # closed = Registration form is now closed
 #  (demo = show all pages to demonstrate the template)
-registration_status: demo
+registration_status: closed
 
 # Remove ".html" from default permalinks
 permalink: pretty
@@ -60,7 +56,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /assets/advert.png
+      image: /assets/mcmicro-logo.png
   - scope:
       path: ""
       type: "projects"
