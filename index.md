@@ -2,7 +2,6 @@
 title: MCMICRO hackathon 2022 
 menu_title: Home
 menu_icon: house-door
-youtube_video: lIanN0DI9R8
 ---
 
 {:.secondary}
@@ -42,7 +41,7 @@ On this web page, you can find general information regarding the hackathon, like
 For more information on MCMICRO, please visit the [official MCMICRO main page](https://mcmicro.org/).
 
 <li class="video" markdown="1">
-{% include youtube.html video="lIanN0DI9R8" title="Image Analysis with MCMICRO - Overview" %}
+{% include youtube.html video="fnxBvgJQmtY" title="Image Analysis with MCMICRO - Overview" %}
 </li>
 
 
