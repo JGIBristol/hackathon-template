@@ -1,7 +1,8 @@
- 
-title: MCMicro hackathon 2022 
+---
+title: MCMICRO hackathon 2022 
 menu_title: Home
 menu_icon: house-door
+youtube_video: lIanN0DI9R8
 ---
 
 {:.secondary}
@@ -33,8 +34,17 @@ menu_icon: house-door
 {% if site.event_status != "over" %}
 
 <img src="./assets/advert.png" alt="Hackathon Logo" style="width:40%;height:20%;">
+<br><br>
+We are excited to announce our first ever MCMICRO hackathon in Heidelberg, brought to you by the Schapiro lab. The Hackathon will take place at the Marsilius Arkaden (Im Neuenheimer Feld 130.3, room K1, 69120 Heidelberg).
 
-We are excited to announce our first ever MCMicro hackathon in Heidelberg, brought to you by the Schapiro lab.
+On this web page, you can find general information regarding the hackathon, like the [agenda](agenda.md), the [participants](about.md) as well as the [projects](projects.md) that we will be working on, as well as some [training resources](resources.md) about nextflow.
+
+For more information on MCMICRO, please visit the [official MCMICRO main page](https://mcmicro.org/).
+
+<li class="video" markdown="1">
+{% include youtube.html video="lIanN0DI9R8" title="Image Analysis with MCMICRO - Overview" %}
+</li>
+
 
 [faq]: {{ site.baseurl }}{% link faq.md %}
 
