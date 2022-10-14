@@ -1,6 +1,6 @@
 ---
 number: 1
-title: Pixel level background subtraction
+title: Image preprocessing / background subtraction
 pis:
   - Krešimir Beštak
   - Victor Perez Meza
