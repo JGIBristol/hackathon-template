@@ -4,7 +4,7 @@ menu_title: About
 menu_icon: globe2
 ---
 
-The first MCMicro hackathon is a small event held in Heidelberg to get started to expand the functionalities of MCMicro. We are
+The first MCMICRO hackathon is a small event held in Heidelberg to get started to expand the functionalities of MCMICRO. We are
 excited to work on adding functionalities for commercial multiplexed platforms, as well as modules for spatial transcriptomics analysis.
 
 ## Participants

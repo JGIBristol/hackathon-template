@@ -1,6 +1,5 @@
----
-layout: page
-title: MCMicro hackathon 2022   
+ 
+title: MCMicro hackathon 2022 
 menu_title: Home
 menu_icon: house-door
 ---
@@ -33,22 +32,14 @@ menu_icon: house-door
 
 {% if site.event_status != "over" %}
 
+<img src="./assets/advert.png" alt="Hackathon Logo" style="width:40%;height:20%;">
+
 We are excited to announce our first ever MCMicro hackathon in Heidelberg, brought to you by the Schapiro lab.
 
 [faq]: {{ site.baseurl }}{% link faq.md %}
 
 {% else %}
 
-Scientists from the University of Bristol hosted a X-day hackathon on
-{{ site.event_date }}, open to researchers, to...
-
-Researchers could sign up to [topics ranging from]({{ site.baseurl }}{% link projects.md %})
-... to ..., and more. Teams were be led by senior academics from a range of
-disciplines at the University of Bristol, but participating researchers could be
-from any UK academic institution.
-
-The event took place virtually, using a combination of **video conferencing**
-(Zoom) for meetings and seminars, and **discussion forums** (Slack) for ongoing
-comms. Data holding and analysis took place on...
+The first ever MCMICRO hackathon was a great success!
 
 {% endif %}
