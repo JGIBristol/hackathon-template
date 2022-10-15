@@ -37,5 +37,12 @@ Tower
 
 ## MCMICRO resources
 
+### [MCMICRO paper](https://www.nature.com/articles/s41592-021-01308-y)
+
+### [MCMICRO website](https://mcmicro.org/)
+### [MCMICRO github page](https://github.com/labsyspharm/mcmicro)
+
+### [Dockerhub for MCMICRO containers](https://hub.docker.com/u/labsyspharm)
+
 </li>
 </ul>
