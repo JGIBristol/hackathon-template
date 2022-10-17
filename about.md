@@ -88,7 +88,7 @@ To contact us about the hackathon, please email Florian at flowuenne@gmail.com.
     </tr>
     <tr>
         <td>
-            <img alt="Niklas Stolzem" src="https://avatars.githubusercontent.com/u/55975768?v=4">
+            <img alt="Niklas Stolzem" src="https://avatars.githubusercontent.com/u/56271383?v=4">
         </td>
         <td>
             <strong>Niklas Stolzem</strong>

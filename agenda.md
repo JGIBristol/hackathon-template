@@ -14,14 +14,14 @@ Time (CET)    | Activity | Where to go
 ------------- | -------- | -----------
 09:30 – 10:00 | Welcome and introduction to MCMICRO - Denis Schapiro | K1 & Zoom
 10:00 – 10:45 | How to add new modules to MCMICRO - Florian & Niklas | K1 & Zoom
-10:45 – 11:00 | Coffe break | Lounge area
+10:45 – 11:00 | Coffee break | Lounge area
 11:00 – 12:00 | **Breakout groups**<br>Project team introductions and role/task allocation | K1 & Zoom
 12:00 – 13:00 | Lunch break | Mensa or Goertz
 13:30 – 15:00 | **Breakout groups**<br>Continue working on projects | K1 & Zoom
 15:00 – 15:30 | **Quick checkup on groups**<br>Are things working as expected, what are majore roadblocks? | K1 & Zoom
 15:30 – 17:00 | **Breakout groups**<br>Continue working on projects | K1 & Zoom
-17:00 – 17:25 | **Group updates**<br>5 minutes per group<br>Max 2 slides 😊<br>What you hope to achieve during the hackathon |K1 & Zoom
-17:00 – open-end | **Free coding**<br> Code until you pass out | K1 & Zoom
+17:00 – 17:30 | **Group updates**<br>5 minutes per group<br>Max 2 slides 😊<br>What you hope to achieve during the hackathon |K1 & Zoom
+17:30 – open-end | **Free coding**<br> Code until you pass out | K1 & Zoom
 
 ## Day 2
 
