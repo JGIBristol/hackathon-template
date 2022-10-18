@@ -9,7 +9,7 @@ excited to work on adding functionalities for commercial multiplexed platforms, 
 
 ## Sponsoring
 
-<img src="/assets/lunaphore_logo.png" alt="Lunaphore Logo" style="width:40%;height:20%;">
+![Lunaphore](/assets/lunaphore_logo.png)
 
 Coffee and food for this event are sponsored by Lunaphore techologies [https://lunaphore.com/](https://lunaphore.com/).
 
