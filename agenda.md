@@ -12,7 +12,7 @@ event_status:
 {:.agenda}
 Time (CET)    | Activity | Where to go
 ------------- | -------- | -----------
-09:00 – 09:30 | **Welcome coffee, pastry & chat**<br>Speaker name | Lounge area
+09:00 – 09:30 | **Welcome coffee, pastry & chat**<br> | Lounge area
 09:30 – 10:00 | Welcome and introduction to MCMICRO - Denis Schapiro | K1 & Zoom
 10:00 – 10:45 | How to add new modules to MCMICRO - Florian & Niklas | K1 & Zoom
 10:45 – 11:00 | Coffee break | Lounge area
