@@ -11,7 +11,7 @@ excited to work on adding functionalities for commercial multiplexed platforms, 
 
 ![Lunaphore](/assets/lunaphore_logo.png)
 
-Coffee and food for this event are sponsored by Lunaphore techologies [https://lunaphore.com/](https://lunaphore.com/).
+Coffee and food for this event are sponsored by Lunaphore technologies [https://lunaphore.com/](https://lunaphore.com/).
 
 ## Participants
 

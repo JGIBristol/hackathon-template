@@ -40,10 +40,10 @@ For more information on MCMICRO, please visit the [official MCMICRO main page](h
 {% include youtube.html video="fnxBvgJQmtY" title="Image Analysis with MCMICRO - Overview" %}
 
 # Sponsors
-
+<br><br>
 <img src="./assets/lunaphore_logo.png" alt="Lunaphore Logo" style="width:40%;height:20%;">
 
-Coffee and food for this event are sponsored by Lunaphore techologies [https://lunaphore.com/](https://lunaphore.com/).
+Coffee and food for this event are sponsored by Lunaphore technologies [https://lunaphore.com/](https://lunaphore.com/).
 
 {% else %}
 
