@@ -7,6 +7,12 @@ menu_icon: globe2
 The first MCMICRO hackathon is a small event held in Heidelberg to get started to expand the functionalities of MCMICRO. We are
 excited to work on adding functionalities for commercial multiplexed platforms, as well as modules for spatial transcriptomics analysis.
 
+# Sponsoring
+
+<img src="./assets/lunaphore_logo.png" alt="Lunaphore Logo" style="width:40%;height:20%;">
+
+Coffee and food for this event are sponsored by Lunaphore techologies [https://lunaphore.com/](https://lunaphore.com/).
+
 ## Participants
 
 Nine researchers from 3 different groups are coding their hardest during the hackathon, to reach their defined milestones.
