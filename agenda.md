@@ -14,7 +14,7 @@ Time (CET)    | Activity | Where to go
 ------------- | -------- | -----------
 09:00 – 09:30 | **Welcome coffee, pastry & chat**<br> Coffee and pastries will be provided  | Lounge area
 09:30 – 10:00 | Welcome and introduction to MCMICRO - Denis Schapiro | K1 & Zoom
-10:00 – 10:45 | How to add new modules to MCMICRO - Florian & Niklas | K1 & Zoom
+10:00 – 10:45 | Outlining of the hackathon structure and how to add new modules to MCMICRO - Florian & Niklas | K1 & Zoom
 10:45 – 11:00 | Coffee break | Lounge area
 11:00 – 12:00 | **Breakout groups**<br>Project team introductions and role/task allocation | K1 & Zoom
 12:00 – 13:00 | Lunch break | Sandwhiches will be provided
