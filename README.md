@@ -6,7 +6,7 @@ The template is designed to get you started as quickly as possible with a workin
 
 Most of the pages have been written to require only minor editing, however you have the flexibility to completely change them or add new pages as required.
 
-Demo: <https://jean-golding-institute.github.io/hackathon-template>
+Demo: <https://jgibristol.github.io/hackathon-template>
 
 ## Getting started
 
