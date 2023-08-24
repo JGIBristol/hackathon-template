@@ -14,8 +14,8 @@ This is a demo of the template repository for a public-facing hackathon website,
 built by the [Jean Golding Institute](https://www.bristol.ac.uk/golding/) at the
 University of Bristol.
 
-For more information: view the [README](https://github.com/jean-golding-institute/hackathon-template/blob/main/README.md) 
-or the [GitHub repository](https://github.com/jean-golding-institute/hackathon-template).
+For more information: view the [README](https://github.com/jgibristol/hackathon-template/blob/main/README.md) 
+or the [GitHub repository](https://github.com/jgibristol/hackathon-template).
 </div>
 <!-- END of section to remove -->
 
